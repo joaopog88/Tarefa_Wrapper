@@ -3,8 +3,9 @@ public class Wrapper {
 
         int numero = 100;
         System.out.println(numero);
-        long numeroL = numero;
-        System.out.println(numeroL);
+
+        Integer numeroI = numero;
+        System.out.println(numeroI);
 
     }
 }
